@@ -9,4 +9,5 @@ We have decided to use Google Colab, but you are free to choose any platform for
 
 **Tip**: When using YOLO for object detection in Colab, it is best **NOT** to mount your Google Drive. Instead, upload a ZIP folder containing your data locally. This will significantly speed up the scanning process.
 
-For the annotation of the images used in the training/validation phase, [Roboflow]((https://roboflow.com/)) has been adopted.
+For the annotation of the images used in the training/validation phase, [Roboflow](https://roboflow.com/) has been adopted.
+
