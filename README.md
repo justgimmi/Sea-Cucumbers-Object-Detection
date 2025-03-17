@@ -11,5 +11,5 @@ We have decided to use Google Colab, but you are free to choose any platform for
 
 For the annotation of the images used in the training/validation phase, [Roboflow](https://roboflow.com/) has been adopted, but it is possible to use whatever annotator that you like. The most important thing is to have everything in the YOLO format.
 
-To visualize the html file, please go to [this link](file:///C:/Users/gmsan/Dropbox/Object%20Detection/Estimation.htmlfile:///C:/Users/gmsan/Dropbox/Object%20Detection/Estimation.html)
+To visualize the html file, please go to [this link](https://drive.google.com/file/d/1gOIRNkp52nj5JqAs9mqu-Z7MYdBLg2Bm/view?usp=drive_link)
 
