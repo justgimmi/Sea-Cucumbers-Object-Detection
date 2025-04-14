@@ -1,6 +1,6 @@
 ---
 title: "Density Estimation"
-author: "Gian Mario Sangiovanni - Daniele Ventura"
+author: "Anonym"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -17,7 +17,6 @@ knitr::opts_chunk$set(
   fig.align = 'center'     
 )
 
-setwd("C:/Users/gmsan/Dropbox/Object Detection")
 expanded_x = c(658069.4, 658180.4)
 expanded_y = c(4691988, 4692094)
 #install.packages("sf")
